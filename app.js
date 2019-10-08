@@ -3,6 +3,7 @@ const chalk = require('chalk');
 const yargs = require('yargs');
 const notes = require('./notes.js');
 
+//Test for Git
 
 //Customize yargs version
 yargs.version('1.1.0')
